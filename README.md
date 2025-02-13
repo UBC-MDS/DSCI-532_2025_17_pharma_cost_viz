@@ -1,4 +1,4 @@
-# pharma_cost_viz
+# pharma_spend_dashboard
 
 Visualization for Pharmaceutical Drug Spending by countries
 
